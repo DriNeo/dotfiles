@@ -1,6 +1,6 @@
 My dotfiles on my Archlinux OS.
 
-Softwares:
+### Softwares:
 
 -bspwm
 
@@ -12,7 +12,7 @@ Softwares:
 
 -picom
 
-bspwm config requires:
+### bspwm config requires:
 
 -xwallpaper
 
@@ -20,7 +20,7 @@ bspwm config requires:
 
 -xsetroot
 
-sxhkd config requires:
+### sxhkd config requires:
 
 -light
 
@@ -32,6 +32,6 @@ sxhkd config requires:
 
 -alacritty
 
-tint2 requires:
+### tint2 requires:
 
 -xdotool
