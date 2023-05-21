@@ -5,7 +5,7 @@ tint2 &
 # numlockx &
 xsetroot -cursor_name left_ptr &
 picom &
-xwallpaper --output eDP-1 --zoom /home/drito/Images/Kaw/2021-03-17_01-14-26.png &
+xwallpaper --output eDP-1 --zoom 2021-03-17_01-14-26.png &
 xset -dpms &&
 xset s off &
 
