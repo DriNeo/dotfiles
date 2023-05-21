@@ -1,0 +1,22 @@
+configuration {
+  modi: "drun";
+  font: "FORCED SQUARE 20";
+  terminal: "alacritty";
+}
+
+@theme "/home/drito/.config/rofi/solarized_alternate.rasi"
+
+listview {
+	lines: 6;
+    padding: 1;
+}
+
+window {
+    width: 800;
+}
+
+element {
+    padding:    8px;
+
+}
+
