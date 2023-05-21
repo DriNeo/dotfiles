@@ -1,3 +1,3 @@
 Base setup for a tiling window manager.
 
-More details in .config/README.md
+More info in .config/README.md
