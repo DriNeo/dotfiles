@@ -1,6 +1,6 @@
-My dotfiles on my Archlinux OS.
+My Archlinux OS desktop setup.
 
-### Softwares:
+### Main softwares:
 
 -bspwm
 
@@ -32,6 +32,6 @@ My dotfiles on my Archlinux OS.
 
 -alacritty
 
-### tint2 requires:
+### tint2 config requires:
 
 -xdotool
